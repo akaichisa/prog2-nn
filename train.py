@@ -1,3 +1,5 @@
+#学習されていないネットワークを使って予測する
+
 import time
 
 import matplotlib.pyplot as plt
